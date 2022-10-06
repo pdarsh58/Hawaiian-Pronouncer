@@ -1,4 +1,4 @@
-#Hawiian Pronunation
+#Hawaiian Pronuncer
 
 def validHawiianword():
     
