@@ -46,9 +46,7 @@ Users can enter any English word and program will return Hawaiian pronunciation 
 
 Enter a hawaiian word to pronounce ==> aloha
 
-ALOHA is pronounced Ah-loh-hah
-
-
+ALOHA is pronounced 'Ah-loh-hah'
 
 
 
@@ -59,7 +57,7 @@ ALOHA is pronounced Ah-loh-hah
 
 Enter a hawaiian word to pronounce ==> Kakahiaka
 
-KAKAHIAKA is pronounced Kah-kah-hee-ah-kah
+KAKAHIAKA is pronounced 'Kah-kah-hee-ah-kah'
 
 
 
@@ -69,7 +67,7 @@ KAKAHIAKA is pronounced Kah-kah-hee-ah-kah
 
 Enter a hawaiian word to pronounce ==> Mahalo
 
-MAHALO is pronounced Mah-hah-loh
+MAHALO is pronounced 'Mah-hah-loh'
 
 
 **********************************************************************************************************************
@@ -78,7 +76,7 @@ MAHALO is pronounced Mah-hah-loh
 
 Enter a hawaiian word to pronounce ==> E komo mai
 
-E KOMO MAI is pronounced Eh koh-moh meye
+E KOMO MAI is pronounced Eh 'koh-moh meye'
 
 
 
@@ -89,7 +87,7 @@ E KOMO MAI is pronounced Eh koh-moh meye
 
 Enter a hawaiian word to pronounce ==> maui
 
-MAUI is pronounced Mow-ee
+MAUI is pronounced 'Mow-ee'
 
 
 
@@ -99,7 +97,7 @@ MAUI is pronounced Mow-ee
 
 Enter a hawaiian word to pronounce ==> kane
 
-KANE is pronounced Kah-neh
+KANE is pronounced 'Kah-neh'
 
 
 
@@ -108,6 +106,6 @@ KANE is pronounced Kah-neh
 
 Enter a hawaiian word to pronounce ==> HOALOHA
 
-HOALOHA is pronounced Hoh-ah-loh-hah
+HOALOHA is pronounced 'Hoh-ah-loh-hah'
 
 
