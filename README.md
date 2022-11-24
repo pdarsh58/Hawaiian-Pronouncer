@@ -60,7 +60,7 @@ Enter Y, YES, N or NO
 Do you want to enter another word? Y/YES/N/NO ==> y
 
 
-
+**********************************************************************************************************************
 
 
 
@@ -71,7 +71,7 @@ KAKAHIAKA is pronounced Kah-kah-hee-ah-kah
 Do you want to enter another word? Y/YES/N/NO ==> y
 
 
-
+**********************************************************************************************************************
 
 
 
@@ -82,7 +82,7 @@ MAHALO is pronounced Mah-hah-loh
 Do you want to enter another word? Y/YES/N/NO ==> y
 
 
-
+**********************************************************************************************************************
 
 
 
@@ -93,7 +93,7 @@ E KOMO MAI is pronounced Eh koh-moh meye
 Do you want to enter another word? Y/YES/N/NO ==> y
 
 
-
+**********************************************************************************************************************
 
 
 
@@ -105,7 +105,7 @@ Do you want to enter another word? Y/YES/N/NO ==> y
 
 
 
-
+**********************************************************************************************************************
 
 
 Enter a hawaiian word to pronounce ==> kane
@@ -116,7 +116,7 @@ Do you want to enter another word? Y/YES/N/NO ==> y
 
 
 
-
+**********************************************************************************************************************
 
 
 Enter a hawaiian word to pronounce ==> HOALOHA
