@@ -50,11 +50,17 @@ ALOHA is pronounced Ah-loh-hah
 
 
 
+
+
+
 Do you want to enter another word? Y/YES/N/NO ==> humuhumunukunukuapua’a
 
 Enter Y, YES, N or NO
 
 Do you want to enter another word? Y/YES/N/NO ==> y
+
+
+
 
 
 
@@ -66,11 +72,17 @@ Do you want to enter another word? Y/YES/N/NO ==> y
 
 
 
+
+
+
 Enter a hawaiian word to pronounce ==> Mahalo
 
 MAHALO is pronounced Mah-hah-loh
 
 Do you want to enter another word? Y/YES/N/NO ==> y
+
+
+
 
 
 
@@ -82,10 +94,18 @@ Do you want to enter another word? Y/YES/N/NO ==> y
 
 
 
+
+
+
 Enter a hawaiian word to pronounce ==> maui
 
 MAUI is pronounced Mow-ee
+
 Do you want to enter another word? Y/YES/N/NO ==> y
+
+
+
+
 
 
 Enter a hawaiian word to pronounce ==> kane
@@ -93,6 +113,10 @@ Enter a hawaiian word to pronounce ==> kane
 KANE is pronounced Kah-neh
 
 Do you want to enter another word? Y/YES/N/NO ==> y
+
+
+
+
 
 
 Enter a hawaiian word to pronounce ==> HOALOHA
