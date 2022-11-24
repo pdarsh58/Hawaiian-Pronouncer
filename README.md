@@ -27,22 +27,75 @@ Users can enter any English word and program will return Hawaiian pronunciation 
 ************Exceptions***********
 
 
-- >   'ai' sounds like eye. Eg: Ice
-- 
-- >   'ae' sounds like eye. Same as ai
-- 
-- >   'ao' sounds like ow. Eg:. How
-- 
-- >   'au' Sounds like ow. Eg:. House.
-- 
-- >   'ei' Sounds like ay. Eg: Hay
-- 
-- >   'eu' Sounds like eh-oo
-- 
-- >   'iu' Sounds like ew
+- >   'ai' sounds like 'eye'. Eg: Ice
+- >   'ae' sounds like 'eye'. Same as ai
+- >   'ao' sounds like 'ow'. Eg:. How
+- >   'au' Sounds like 'ow'. Eg:. House.
+- >   'ei' Sounds like 'ay'. Eg: Hay
+- >   'eu' Sounds like 'eh-oo'
+- >   'iu' Sounds like 'ew'
+- >   'oi' Sounds like 'oyo'
+- >   'ou' Sounds like 'ow'
+- >   'ui' Sounds like 'ooey'. Eg: gooey
 
-- >   'oi' Sounds like oyo
-- 
-- >   'ou' Sounds like ow.
-- 
-- >   'ui' Sounds like ooey. Eg: gooey
+
+
+************Examples***********
+
+
+Enter a hawaiian word to pronounce ==> aloha
+
+ALOHA is pronounced Ah-loh-hah
+
+
+
+Do you want to enter another word? Y/YES/N/NO ==> humuhumunukunukuapua’a
+
+Enter Y, YES, N or NO
+
+Do you want to enter another word? Y/YES/N/NO ==> y
+
+
+
+Enter a hawaiian word to pronounce ==> Kakahiaka
+
+KAKAHIAKA is pronounced Kah-kah-hee-ah-kah
+
+Do you want to enter another word? Y/YES/N/NO ==> y
+
+
+
+Enter a hawaiian word to pronounce ==> Mahalo
+
+MAHALO is pronounced Mah-hah-loh
+
+Do you want to enter another word? Y/YES/N/NO ==> y
+
+
+
+Enter a hawaiian word to pronounce ==> E komo mai
+
+E KOMO MAI is pronounced Eh koh-moh meye
+
+Do you want to enter another word? Y/YES/N/NO ==> y
+
+
+
+Enter a hawaiian word to pronounce ==> maui
+
+MAUI is pronounced Mow-ee
+Do you want to enter another word? Y/YES/N/NO ==> y
+
+
+Enter a hawaiian word to pronounce ==> kane
+
+KANE is pronounced Kah-neh
+
+Do you want to enter another word? Y/YES/N/NO ==> y
+
+
+Enter a hawaiian word to pronounce ==> HOALOHA
+
+HOALOHA is pronounced Hoh-ah-loh-hah
+
+Do you want to enter another word? Y/YES/N/NO ==> y
