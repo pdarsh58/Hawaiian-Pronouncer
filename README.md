@@ -50,7 +50,7 @@ ALOHA is pronounced Ah-loh-hah
 
 
 
-
+**********************************************************************************************************************
 
 
 Do you want to enter another word? Y/YES/N/NO ==> humuhumunukunukuapua’a
