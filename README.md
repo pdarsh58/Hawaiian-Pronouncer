@@ -40,7 +40,7 @@ Users can enter any English word and the program will return Hawaiian pronunciat
 
 
 
-************Examples***********
+************Sample Run***********
 
 
 
