@@ -1,7 +1,7 @@
 #Hawaiian Pronuncer
 #Darshil Patel
 
-def validHawiianword():
+def validHawaiianword():
     
     valid = True   
     while valid:
@@ -22,8 +22,8 @@ def validHawiianword():
 
 
         
-def hawiian_pronuncer():
-    word = str(validHawiianword())
+def hawaiian_pronuncer():
+    word = str(validHawaiianword())
     word = word.lower()
     
     if "iw" in word or "ew" in word:
@@ -77,6 +77,6 @@ def hawiian_pronuncer():
     """
     return new_word       
 
-print(hawiian_pronuncer())
+print(hawaiian_pronuncer())
 
     
