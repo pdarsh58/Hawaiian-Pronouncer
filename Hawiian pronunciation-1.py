@@ -1,4 +1,5 @@
 #Hawaiian Pronuncer
+#Darshil Patel
 
 def validHawiianword():
     
